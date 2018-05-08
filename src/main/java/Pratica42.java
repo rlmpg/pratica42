@@ -10,7 +10,7 @@ import utfpr.ct.dainf.if62c.pratica.Elipse;
 
 /**
  *
- * @author Anna
+ * @author Chin
  */
 public class Pratica42 {
     
